@@ -13,7 +13,7 @@ meteor add gwendall:remote-autoupdate
 Method
 ----------
 
-**RemoteAutoupdate(url)**  
+**RemoteAutoupdate(url)** (client-only)  
 ``` javascript
 RemoteAutoupdate("http://localhost:5000");
 ```
